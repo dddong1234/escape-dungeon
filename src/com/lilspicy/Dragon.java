@@ -9,7 +9,7 @@ public class Dragon extends Monster{
     }
 
     public Dragon() {
-        super(100, 1, 1, 1, 1, 1);
+        super(100,100,50,30,100,1);
         classifyRareMonster();
     }
 
